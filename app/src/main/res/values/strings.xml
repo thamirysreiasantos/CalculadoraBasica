@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="dica_numero1">Digite o primeiro número</string>
+    <string name="dica_numero2">Digite o segundo número</string>
+    <string name="btn_soma">Soma</string>
+    <string name="btn_multiplicacao">Multiplicação</string>
+    <string name="btn_divisao">Divisão</string>
+    <string name="btn_subtracao">Subtração</string>
+    </resources>
